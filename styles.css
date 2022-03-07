@@ -1,16 +1,14 @@
 body{
     background-color: black;
-    /*color: white;*/
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
     color: white;
 }
 
 main{
-    background-image: url('alternate-background.jpg');
+    background-image: url('images/alternate-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    /*overflow: hidden;*/
     font-size: 45px;
     margin: 0px;
     height: 600px;
@@ -35,7 +33,6 @@ a{
     padding-left: 20px;
     font-size: 20px;
     text-decoration-thickness: 1px;
-    /*text-decoration: none;*/
 }
 
 /*styles for About Me*/
@@ -130,7 +127,7 @@ a{
 }
 
 .construction{
-    background-image: url('Sunnyside-snip.PNG');
+    background-image: url('images/Sunnyside-snip.PNG');
     background-repeat: no-repeat;
     background-size: 300px 175px;
 }
