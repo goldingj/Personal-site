@@ -172,6 +172,7 @@ a{
     backface-visibility: hidden;
     transform: rotateY(180deg);
     font-size: 20px;
+    font-weight: bold;
     border-style: outset;
     border-radius: 5%;
 }
@@ -210,6 +211,19 @@ a{
     text-decoration: underline overline;
     text-underline-offset: 3px;
     letter-spacing: 4px;
+}
+
+.construction-back{
+    padding-top: 30px;
+    
+}
+
+.construction-back a{
+    margin-right: 15px;
+}
+
+.construction-back img{
+    margin-top: 20px;
 }
 
 
