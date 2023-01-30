@@ -89,6 +89,7 @@ a{
 #about-me{
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
+    padding-top: 25px;
     padding-bottom: 50px;
     font-size: 25px;
     color: hsl(204, 8%, 76%);
@@ -98,6 +99,7 @@ a{
     font-size: 55px;
     color: white;
     font-family: Allura;
+    padding-top: 100px;
 }
 
 .title{
